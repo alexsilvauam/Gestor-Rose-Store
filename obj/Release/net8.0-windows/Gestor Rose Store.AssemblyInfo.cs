@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestor Rose Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba05fcae0755b9553d51632e660aa0858544fdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestor Rose Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestor Rose Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

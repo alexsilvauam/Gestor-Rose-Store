@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSeuwYWSlzA=",
+  "dgSpecHash": "s3Wv0Tds6jk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Gestor Rose Store.csproj",
+  "projectFilePath": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Gestor Rose Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexj\\.nuget\\packages\\closedxml\\0.104.2\\closedxml.0.104.2.nupkg.sha512",
     "C:\\Users\\alexj\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",

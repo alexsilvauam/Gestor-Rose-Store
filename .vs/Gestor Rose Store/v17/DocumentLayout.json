@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\",
+  "WorkspaceRootPath": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\presenter\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\presenter\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:presenter\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\model\\procesadorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\model\\procesadorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:model\\procesadorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor-rose-store\\view\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\frmMain.cs",
               "RelativeDocumentMoniker": "View\\frmMain.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs [Design]",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\frmMain.cs [Design]",
               "RelativeToolTip": "View\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T17:39:45.797Z",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\frmMain.cs",
               "RelativeDocumentMoniker": "View\\frmMain.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\frmMain.cs",
               "RelativeToolTip": "View\\frmMain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Program.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IMainView.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\IMainView.cs",
               "RelativeDocumentMoniker": "View\\IMainView.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\IMainView.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\IMainView.cs",
               "RelativeToolTip": "View\\IMainView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,9 +134,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProcesadorExcel.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Model\\ProcesadorExcel.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Model\\ProcesadorExcel.cs",
               "RelativeDocumentMoniker": "Model\\ProcesadorExcel.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Model\\ProcesadorExcel.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Model\\ProcesadorExcel.cs",
               "RelativeToolTip": "Model\\ProcesadorExcel.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,9 +146,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Presenter\\MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Presenter\\MainPresenter.cs",
               "RelativeDocumentMoniker": "Presenter\\MainPresenter.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Presenter\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Presenter\\MainPresenter.cs",
               "RelativeToolTip": "Presenter\\MainPresenter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,9 +158,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "frmMain.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\frmMain.Designer.cs",
               "RelativeDocumentMoniker": "View\\frmMain.Designer.cs",
-              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\View\\frmMain.Designer.cs",
               "RelativeToolTip": "View\\frmMain.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

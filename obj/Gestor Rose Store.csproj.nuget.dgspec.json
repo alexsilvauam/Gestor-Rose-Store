@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Gestor Rose Store.csproj": {}
+    "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Gestor Rose Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Gestor Rose Store.csproj": {
+    "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Gestor Rose Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Gestor Rose Store.csproj",
+        "projectUniqueName": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Gestor Rose Store.csproj",
         "projectName": "Gestor Rose Store",
-        "projectPath": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Gestor Rose Store.csproj",
+        "projectPath": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\Gestor Rose Store.csproj",
         "packagesPath": "C:\\Users\\alexj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\obj\\",
+        "outputPath": "C:\\Users\\alexj\\source\\repos\\Gestor-Rose-Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
