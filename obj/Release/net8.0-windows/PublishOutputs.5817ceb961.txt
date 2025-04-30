@@ -1,0 +1,13 @@
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\Gestor Rose Store.exe
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\Gestor Rose Store.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\Gestor Rose Store.deps.json
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\Gestor Rose Store.runtimeconfig.json
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\Gestor Rose Store.pdb
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\ClosedXML.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\ClosedXML.Parser.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\DocumentFormat.OpenXml.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\DocumentFormat.OpenXml.Framework.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\ExcelNumberFormat.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\RBush.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\SixLabors.Fonts.dll
+C:\Users\alexj\source\repos\Gestor Rose Store\bin\Release\net8.0-windows\publish\System.IO.Packaging.dll

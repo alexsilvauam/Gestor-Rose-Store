@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "is9iYr/sQdE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Gestor Rose Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexj\\.nuget\\packages\\closedxml\\0.104.2\\closedxml.0.104.2.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\rbush\\4.0.0\\rbush.4.0.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.14\\microsoft.netcore.app.runtime.win-x86.8.0.14.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.14.nupkg.sha512",
+    "C:\\Users\\alexj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.14\\microsoft.aspnetcore.app.runtime.win-x86.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

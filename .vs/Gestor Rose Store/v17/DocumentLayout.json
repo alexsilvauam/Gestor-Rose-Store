@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\presenter\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:presenter\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\model\\procesadorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:model\\procesadorexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|c:\\users\\alexj\\source\\repos\\gestor rose store\\view\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3155ACD4-AA8E-418A-B2A8-6188E6C626F1}|Gestor Rose Store.csproj|solutionrelative:view\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs",
+              "RelativeDocumentMoniker": "View\\frmMain.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs [Design]",
+              "RelativeToolTip": "View\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:39:45.797Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs",
+              "RelativeDocumentMoniker": "View\\frmMain.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.cs",
+              "RelativeToolTip": "View\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:39:56.156Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:04:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\IMainView.cs",
+              "RelativeDocumentMoniker": "View\\IMainView.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\IMainView.cs",
+              "RelativeToolTip": "View\\IMainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:56:25.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcesadorExcel.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Model\\ProcesadorExcel.cs",
+              "RelativeDocumentMoniker": "Model\\ProcesadorExcel.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Model\\ProcesadorExcel.cs",
+              "RelativeToolTip": "Model\\ProcesadorExcel.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:45:31.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Presenter\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\Presenter\\MainPresenter.cs",
+              "RelativeToolTip": "Presenter\\MainPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:45:18.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "View\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\alexj\\source\\repos\\Gestor Rose Store\\View\\frmMain.Designer.cs",
+              "RelativeToolTip": "View\\frmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T17:38:36.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 504,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
